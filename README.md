@@ -1,14 +1,10 @@
 ### Hi there 👋
 
-<!--
-Soo Github told me i should start with this and uhh yea
-
-- 🔭 I’m currently working on to mutch projekts
-- 🌱 I’m currently learning Python
-- 💬 Ask me about nothing lol
-- 📫 How to reach me: you cant
-- ⚡ Fun fact: I dont know why i do this
--->
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/715491864739840063?simple=true)
+![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/715491864739840063)
+![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/715491864739840063)
+![intellij](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/intellij/715491864739840063)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/715491864739840063)](https://dev.discordprofiles.me/openspotify/715491864739840063)
  
  some stats about me uh idk why i need this becouse i just publish shit or want to save something
  
