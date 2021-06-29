@@ -24,4 +24,7 @@ Profile Visits:
 <img align="left" alt="css" width="18px" src="https://i.imgur.com/Zsnk6xl.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
 <img align="left" alt="python" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
+<img align="left" alt="c++" width="24px" src="https://w7.pngwing.com/pngs/520/669/png-transparent-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-trademark-thumbnail.png" />
+<img align="left" alt="Java" width="26px" src="https://www.pikpng.com/pngl/m/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" />
+<img align="left" alt="php" width="26px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />
 <img align="left" alt="C#" width="26px" src="https://i.imgur.com/vFgowAJ.png" /> <br />
