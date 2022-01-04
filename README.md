@@ -17,14 +17,12 @@ Profile Visits:
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
-<img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
-<img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
-<img align="left" alt="html" width="26px" src="https://i.imgur.com/1VQeKGP.png" />
-<img align="left" alt="css" width="18px" src="https://i.imgur.com/Zsnk6xl.png" />
-<img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" />
-<img align="left" alt="python" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
-<img align="left" alt="c++" width="24px" src="https://w7.pngwing.com/pngs/520/669/png-transparent-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-trademark-thumbnail.png" />
-<img align="left" alt="Java" width="26px" src="https://www.pikpng.com/pngl/m/146-1469146_java-logo-png-transparent-vector-java-logo-png.png" />
-<img align="left" alt="php" width="26px" src="https://www.pngfind.com/pngs/m/146-1466902_php-logo-png-transparent-php-logo-png-png.png" />
-<img align="left" alt="C#" width="26px" src="https://i.imgur.com/vFgowAJ.png" /> <br />
+<p align='center'>
+  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img src="https://img.shields.io/badge/csharp%20-896cd0.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+  <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  
+</p>
