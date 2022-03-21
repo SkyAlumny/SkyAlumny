@@ -53,7 +53,7 @@ Profile Visits:
 
 **__About me__**
 
-**Job:** School :eyes:
+**Job:** School student :eyes:
 <br>
 **I'll do it after school:** GSG9 (german police special unit) or bundeswehr (German army) Still uncertain ^^
  <br>
