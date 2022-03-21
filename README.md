@@ -50,7 +50,7 @@ Profile Visits:
  SQL | 15%
 
   
-</p>
+
 **Own Status**
 
 Job: / School :eyes:
