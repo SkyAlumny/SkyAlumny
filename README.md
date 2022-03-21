@@ -19,6 +19,21 @@ Profile Visits:
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
  
- 
+ **Other i learn**
+ Godot (btw my first step into Development) | 30%
+ Unity | 80%
+ Unreal Engine | 60 %
+ Blender | 30%
+ JS | 70%
+ PY (first programming language but sill bad in Py) | 20%
+ C# | 75%
+ C++ | 5%
+ HTML | 95 %
+ Lua | 65%
+ Fivem QB / ESX | 55%
+ .net framework | 60%
+ MongoDB | 40%
+ SQL | 15%
+
   
 </p>
