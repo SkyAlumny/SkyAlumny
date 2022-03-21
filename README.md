@@ -51,7 +51,7 @@ Profile Visits:
 
   
 </p>
-**__own status**__
+**__own status__**
 
 Job: / School :eyes:
 <br>
