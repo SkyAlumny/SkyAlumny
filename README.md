@@ -57,5 +57,5 @@ Profile Visits:
 <br>
 **I'll do it after school:** GSG9 (german police special unit) or bundeswehr (German army) Still uncertain ^^
  <br>
- **From** Germanny 🇩🇪
+ **From:** Germanny :de:
 </p>
