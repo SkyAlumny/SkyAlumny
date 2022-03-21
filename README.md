@@ -31,7 +31,7 @@ Profile Visits:
   <br>
  JS | 70%
   <br>
- PY (first programming language but sill bad in Py) | 20%
+ PY  | 20%
   <br>
  C# | 75%
   <br>
