@@ -19,43 +19,30 @@ Profile Visits:
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
  
- **Other i learn**
- <br>
- Godot (btw my first step into Development) | 30%
-  <br>
- Unity | 80%
-  <br>
- Unreal Engine | 60 %
-  <br>
- Blender | 30%
-  <br>
- JS | 70%
-  <br>
- PY  | 20%
-  <br>
- C# | 75%
-  <br>
- C++ | 5%
-  <br>
- HTML | 95 %
-  <br>
- Lua | 65%
-  <br>
- Fivem QB / ESX | 55%
-  <br>
- .net framework | 60%
-  <br>
- MongoDB | 40%
-  <br>
- SQL | 15%
-
-  
-
-**__About me__**
-
-**Job:** School student :eyes:
-<br>
-**I'll do it after school:** GSG9 (german police special unit) or Bundeswehr (German army) Still uncertain ^^
- <br>
- **From:** Germanny :de:
-</p>
+ **Skills:*
+ 
+ - Unity (Game Development, Code, Level Design)
+ - Unreal Engine (Blueprint, Level Design)
+ - Blender (learning)
+ - C# (Unity, .NET Framework)
+ - Godot (I don't use it anymore, Was my first step into game development)
+ - Javascript (Web, Discord Bot, Small Things)
+ - Python (Games, Bots)
+ - Java (Android Development)
+ - NodeJS
+ - EJS (Complex Websites)
+ - Music (I make Music Videos 👀)
+ - HTML (Web, NASA Hack)
+ - Lua (FiveM)
+ - CSS (NASA Hack and a bit Web)
+ - ESX (FiveM)
+ - .NET Framework (Desktop Applications)
+ - MongoDB (Database for Discord Bots)
+ - MySQL (Database for my Games)
+ 
+**CEO**
+https://tetstentfry.com (Soon:tm:)
+ 
+ **Contact**
+Mail: skyalumny@tetstentfry.com
+Discord: SkyAlumny#3136
