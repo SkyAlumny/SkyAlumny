@@ -47,7 +47,7 @@ https://tetstentfry.com (Soon:tm:)
 Mail: skyalumny@tetstentfry.com
 Discord: SkyAlumny#3136
  
- ** Follow me to go Yezzz **
+# Follow me to go Yezzz
  
  - [[Twitter | IDK who tf use  but follow]](https://twitter.com/SkyAlumny)
  - [[Youtube | Follow to go Yezz]](https://www.youtube.com/channel/UCLz7YVDJ-u0p6ldm_-Apdjw)
