@@ -19,7 +19,7 @@ Profile Visits:
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
   <img src="https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
  
- **Skills:*
+ **Skills:**
  
  - Unity (Game Development, Code, Level Design)
  - Unreal Engine (Blueprint, Level Design)
@@ -52,3 +52,10 @@ Discord: SkyAlumny#3136
  - [[Twitter | IDK who tf use  but follow]](https://twitter.com/SkyAlumny)
  - [[Youtube | Follow to go Yezz]](https://www.youtube.com/channel/UCLz7YVDJ-u0p6ldm_-Apdjw)
  - [[OnlyFans | 👀 ]](https://www.youtube.com/watch?v=a3Z7zEc7AXQ)
+
+ **Wroking on Horror Game**
+- Realese soon on Steam 👀
+- Source Folder: 200GB 😢
+- Status: Development Paused until 20th May
+ 
+ Follow my Github to get Notification on Game Realese
