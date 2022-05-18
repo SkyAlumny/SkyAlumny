@@ -2,9 +2,6 @@
 
  
 
-![](https://github-readme-stats.vercel.app/api?username=skyalumny&show_icons=true&include_all_commits=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=skyalumny&layout=default&theme=dark)
-
 Profile Visits:
 ![](https://profile-counter.glitch.me/skyalumny/count.svg)
 
