@@ -32,7 +32,7 @@ Profile Visits:
  - HTML (Web, NASA Hack)
  - Lua (FiveM)
  - CSS (NASA Hack and a bit Web)
- - ESX (FiveM)
+ - ESX QBcore (FiveM)
  - .NET Framework (Desktop Applications)
  - MongoDB (Database for Discord Bots)
  - MySQL (Database for my Games)
