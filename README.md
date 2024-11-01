@@ -18,21 +18,21 @@ Profile Visits:
  
  **Skills:**
  
- - Unity (Game Development, Code, Advanced AI)
+ - Unity (Game Development, Code, Advanced AI, Mobile Games)
  - Unreal Engine (Blueprint, Level Design, Small AI, Advanded Games)
  - Blender (Simple Low Poly 3D Models)
  - C# (Unity, .NET Framework for Desktop Softwares, Tools)
  - Godot (I don't use it anymore, My first Engine to develop Games)
  - Javascript (Web, Discord Bot)
- - Python (Games, Bots, Automatic Systems)
+ - Python (Games, Bots, Automation)
  - Java (Android Development)
  - NodeJS (Complex Websites, Backend Server)
  - EJS (Complex Website frontend)
  - HTML, CSS (Website, Dashboard Designs)
  - Lua (FiveM, ESX, QBCore)
  - MongoDB (Using as main Database)
- - MySQL (Second Database)
- - C++ (External Tools, Reverse Engineeringg)
+ - MySQL (If MongoDB is not enought but i dont like to use it)
+ - C++ (External Tools, Reverse Engineering)
  - PHP (APIs)
 
  
